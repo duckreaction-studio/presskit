@@ -1,0 +1,28 @@
+name: Zip Folders
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  zip_folders:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install zip
+      run: sudo apt-get install zip
+
+    - name: Zip Meaningless presskit
+      run: zip -r MeaninglessPresskit.zip "Duck Reaction" "Meaningless"
+
+    - name: Commit changes
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add .
+        git commit -m "Add ZIP files"
+        git push
