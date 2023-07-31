@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Install zip
-      run: sudo apt-get install zip
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+        lfs: true
 
     - name: Zip Meaningless presskit
       run: zip -r MeaninglessPresskit.zip "Duck Reaction" "Meaningless"
