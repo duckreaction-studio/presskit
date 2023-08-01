@@ -1,6 +1,6 @@
 # Duck Reaction Press Kit
 
-![Duck Reaction Logo](Duck%20Reaction/duckreaction_logo2022_official_512.png)
+<img src="Duck%20Reaction/Logos/duckreaction_logo2022_official_512.png" width="100">
 
 ## Introduction
 
