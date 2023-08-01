@@ -6,7 +6,9 @@
 
 Welcome to the Duck Reaction Press Kit! Here, you can find all the resources (images, videos, and more) related to Duck Reaction and our games.
 
-All resources are available in this convenient zip file: [MeaninglessPresskit](MeaninglessPresskit.zip). Alternatively, you can explore our GitHub repository to download only what you need: [GitHub Repository](https://github.com/duckreaction-studio/presskit).
+**All resources are available in this convenient zip file: [Press kit archives](https://github.com/duckreaction-studio/presskit/raw/main/MeaninglessPresskit.zip?download=).**
+
+Alternatively, you can explore our GitHub repository to download only what you need: [GitHub Repository](https://github.com/duckreaction-studio/presskit).
 
 ## Structure
 
