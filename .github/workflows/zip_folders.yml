@@ -19,6 +19,9 @@ jobs:
     - name: Zip Meaningless presskit
       run: zip -r MeaninglessPresskit.zip "Duck Reaction" "Meaningless"
 
+    - name: Zip Fluffy Doki Sunshine presskit
+      run: zip -r FluffyDokiSunshinePresskit.zip "Duck Reaction" "FluffyDokiSunshine"
+
     - name: Commit changes
       run: |
         git config user.name "GitHub Action"

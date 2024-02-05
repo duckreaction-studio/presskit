@@ -26,3 +26,5 @@ To help you navigate through our press kit, here's some information about the fo
 For more detailed information about Duck Reaction, please check out [this link](https://duckreaction.notion.site/About-Duck-Reaction-Press-kit-2a5a02c9858547879aaaf9acc75cb6ba?pvs=4).
 
 If you want to know more about Meaningless, head over to [this link](https://duckreaction.notion.site/Meaningless-Press-Kit-7b40ddf3bf7442a8b32f89993c524aa2).
+
+If you want to know more about Fluffy Doki Sunshine, head over to [this link](https://duckreaction.notion.site/Fluffy-Doki-Sunshine-Presskit-e85a22fa14b3474cad3407d034cc31b5).
